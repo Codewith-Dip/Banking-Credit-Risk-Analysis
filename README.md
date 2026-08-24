@@ -124,18 +124,6 @@ The analysis was performed on a cleaned loan dataset containing **1.35M+ records
 
 The large CSV dataset is intentionally **not included in this GitHub repository** to keep the repository lightweight and avoid unnecessarily storing a very large data file.
 
-## Example Business Questions
-
-This project was designed to answer questions such as:
-
-- What is the overall default rate?
-- Which FICO groups have the highest default risk?
-- How does DTI relate to observed default rate?
-- Which loan purposes carry higher observed risk?
-- Which risk categories have the highest default rates?
-- Where is the largest loan exposure concentrated?
-- How does portfolio exposure change over time?
-- Which customer characteristics are associated with different default rates?
 
 ## Future Improvements
 
